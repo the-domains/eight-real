@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Eight Real]]></title>
+        <description><![CDATA[Eight Real]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jul 2016 23:15:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Eight Real is about making commerce easy, as a universal coin that you can take anywhere</p>]]></description>
+            <link>undefinedeight-real-is-about-making-commerce-easy-as-a-universal-coi/index.html</link>
+            <guid isPermaLink="false">43bb64f0-e658-47f8-9b94-b310074b5c55</guid>
+            <pubDate>Tue, 12 Jul 2016 23:15:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
