@@ -1,0 +1,28 @@
+name: Eight Real
+favicon: null
+layout_spectrum: 0.7992927418090403
+typography_spectrum: 0.3303345260210335
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9303550042677671
+  lightness: 0.18647841666825116
+  saturation: 0.4481953755021095
+  rhythmicContrast: 0.7574905618093908
+purpose: []
